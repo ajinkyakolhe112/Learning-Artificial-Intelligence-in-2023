@@ -1,0 +1,20 @@
+## Status
+- [x] Concepts in Deep Learning
+- [ ] Math, Numpy & Pytorch
+- [ ] Gradient Descent
+- [ ] ANNs
+- [ ] Overfitting & Cross Validation
+- [ ] Regularization
+- [ ] Activations & opimizers
+- [ ] Feed Forward Networks
+- [ ] Dataset & Dataloaders
+- [ ] Measuring model performance
+- [ ] Weight initializations & investigations
+- [ ] Autoencoders
+- [ ] Convolutions & Transformations
+- [ ] Understand & Design CNNs
+- [ ] Transfer Learning
+- [ ] Style Transfer
+- [ ] Generative Adversarial Networks
+- [ ] RNNs
+- [ ] 
