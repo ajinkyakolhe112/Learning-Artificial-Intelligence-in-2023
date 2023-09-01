@@ -1,3 +1,0 @@
-## Status
-- [ ] Lecture 1
-- [ ] 
