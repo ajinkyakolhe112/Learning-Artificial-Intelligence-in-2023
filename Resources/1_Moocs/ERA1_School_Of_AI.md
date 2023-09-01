@@ -1,3 +1,6 @@
+# Course
+-  [Extensive AI: Vision + NLP](https://theschoolof.ai/)
+-  [Curriculum](https://drive.google.com/file/d/1SF0BzeNgzAyCQfvZ7X5nilyjvlQVEMTQ/view)
 ## Status
 - [x] week 1 - Fundamentals of AI
 - [x] week 2 - Exploring Neural Network Architectures
