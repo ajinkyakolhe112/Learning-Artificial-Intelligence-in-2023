@@ -1,11 +1,12 @@
 # Course
 - [A deep understanding of deep learning](https://www.udemy.com/course/deeplearning_x/)
 - Course is from POV of **Neuroscientist**. More conceptual compared to other courses.
+
 ## Status
 - [x] Concepts in Deep Learning
-- [ ] Math, Numpy & Pytorch
+- [x] Math, Numpy & Pytorch
 - [ ] Gradient Descent
-- [ ] ANNs
+- [x] ANNs
 - [ ] Overfitting & Cross Validation
 - [ ] Regularization
 - [ ] Activations & opimizers

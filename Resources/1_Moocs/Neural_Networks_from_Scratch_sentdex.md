@@ -4,8 +4,8 @@
 - Very visual way of explaining, combined with implementing from scratch for understanding
 
 ## Status
-- [ ] Introduction & Single Neuron
-- [ ] Coding a Layer
+- [x] Introduction & Single Neuron
+- [x] Coding a Layer
 - [ ] The Dot Product
 - [ ] Batches, Layers and Objects
 - [ ] Hidden Layer Activation Functions

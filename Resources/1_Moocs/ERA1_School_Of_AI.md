@@ -1,6 +1,7 @@
 # Course
 -  [Extensive AI: Vision + NLP](https://theschoolof.ai/)
 -  [Curriculum](https://drive.google.com/file/d/1SF0BzeNgzAyCQfvZ7X5nilyjvlQVEMTQ/view)
+
 ## Status
 - [x] week 1 - Fundamentals of AI
 - [x] week 2 - Exploring Neural Network Architectures
@@ -18,4 +19,4 @@
 - [ ] week 14 - Dawn of Tranformers - I
 - [ ] week 15 - Dawn of Tranformers - II
 - [ ] week 16 - Transformer Architectures & Speeding them up
-- [ ] UNETs, Variational AutoEncoders and Applications
+- [ ] week 17 - BERT, GPT, ViT
