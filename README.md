@@ -1,6 +1,10 @@
 ## Ongoing Status
 Tracking the progress of my `Mastering Deep Learning in Career Break 2023`
+- [ ] Phase 1: Basics of Deep Learning: Vision + NLP ![](https://geps.dev/progress/60)
+- [ ] Phase 2: Intermediate Level Deep Learning 
 
+---
+## Phase 1
 
 ### Kaggle Competitions
 - [10 Digits Recognition(MNIST)](./Resources/Kaggle/mnist_competition.md)![](https://geps.dev/progress/60)
