@@ -4,6 +4,7 @@
 - Stanford Students class projects & their best works are available [here](https://cs230.stanford.edu/project/). Helps to aim for international quality level
 - Instructor is "Andrew Ng". Has both Academia and Industry experience. With huge proven track record. Co founder of Google Brain & Coursera, ex Chief Scientist at Baidu, Director f Stanford AI Lab etc...
 - Almost Free. Content available freely on Coursera for audit, and also youtube.
+- From POV of Deep Learning Researcher. (Maths heavy)
 
 ## Status
 - [x] C1 - Neural Networks & Deep Learning
