@@ -10,11 +10,11 @@
 - [x] week 5 - Introduction to Pytorch
 - [x] week 6 - Backpropagation & Advanced Architectures
 - [x] week 7 - In depth Coding Practice
-- [ ] week 8 - Batch Normalization & Regularization
-- [ ] week 9 - Advanced Convolutions & Data Augmentation & Visualizations
-- [ ] week 10 - Residual Connections & One Cycle Policy
-- [ ] week 11 - CAMs, LRs, Optimizers
-- [ ] week 12 - Pytorch Lightning & AI Application Development
+- [x] week 8 - Batch Normalization & Regularization
+- [x] week 9 - Advanced Convolutions & Data Augmentation & Visualizations
+- [x] week 10 - Residual Connections & One Cycle Policy
+- [x] week 11 - CAMs, LRs, Optimizers
+- [x] week 12 - Pytorch Lightning & AI Application Development
 - [ ] week 13 - YOLO & Object Detection
 - [ ] week 14 - Dawn of Tranformers - I
 - [ ] week 15 - Dawn of Tranformers - II

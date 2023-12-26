@@ -4,9 +4,9 @@
 
 ## Status
   Part 1
-- [ ] Getting Started
-- [ ] Deployment
-- [ ] Neural Net Foundations
+- [ ] Lecture 1: Getting Started
+- [ ] Lecture 2: Deployment
+- [ ] Lecture 3: Neural Net Foundations
 - [ ] Natural Language
 - [ ] From Scratch Model
 - [ ] Random Forests

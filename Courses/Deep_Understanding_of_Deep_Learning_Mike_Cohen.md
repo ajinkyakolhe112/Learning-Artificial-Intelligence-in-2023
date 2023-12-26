@@ -5,9 +5,9 @@
 ## Status
 - [x] Concepts in Deep Learning
 - [x] Math, Numpy & Pytorch
-- [ ] Gradient Descent
+- [x] Gradient Descent
 - [x] ANNs
-- [ ] Overfitting & Cross Validation
+- [x] Overfitting & Cross Validation
 - [ ] Regularization
 - [ ] Activations & opimizers
 - [ ] Feed Forward Networks
