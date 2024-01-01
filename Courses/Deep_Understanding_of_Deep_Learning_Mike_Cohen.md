@@ -10,7 +10,7 @@
 - [x] Overfitting & Cross Validation
 - [ ] Regularization
 - [ ] Activations & opimizers
-- [ ] Feed Forward Networks
+- [x] Feed Forward Networks
 - [ ] Dataset & Dataloaders
 - [ ] Measuring model performance
 - [ ] Weight initializations & investigations

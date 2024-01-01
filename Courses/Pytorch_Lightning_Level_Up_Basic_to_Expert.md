@@ -11,12 +11,12 @@
     - validate & test data split
     - save model progress
     - enable early stopping
-- [ ] Use pretrained models
-- [ ] Enable script parameters
-- [ ] Understand and visualize your model
+- [x] Use pretrained models
+- [x] Enable script parameters
+- [x] Understand and visualize your model
     - Debug your model
     - Visualize metrics, images & text
-- [ ] Predict with your model
+- [x] Predict with your model
 
 ### Intermediate skills
 - [ ] Interactive cloud development

@@ -6,9 +6,9 @@
 - [x] Pytorch Fundamentals
 - [x] Pytorch Workflow Fundamentals
 - [x] Neural Network Classification
-- [ ] Computer Vision
+- [x] Computer Vision
 - [ ] Custom Datasets
-- [ ] Going Modular
+- [x] Going Modular
 - [ ] Transfer Learning
 - [ ] Experiment Tracking
 - [ ] Paper Replicating

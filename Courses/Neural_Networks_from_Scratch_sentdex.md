@@ -8,8 +8,8 @@
 - [x] Coding a Layer
 - [x] The Dot Product
 - [x] Batches, Layers and Objects
-- [ ] Hidden Layer Activation Functions
-- [ ] Softmax Activation
-- [ ] Calculating Loss with Categorical Cross Entropy
+- [x] Hidden Layer Activation Functions
+- [x] Softmax Activation
+- [x] Calculating Loss with Categorical Cross Entropy
 - [ ] Implementing Loss
 - [ ] Introducing Optimization & Derivatives
